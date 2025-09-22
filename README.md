@@ -1,11 +1,8 @@
-![Logo](https://raw.githubusercontent.com/ZATHENA-VENTURES/MBIM-Official-Website/main/logo.png)
+# MBIM-Official-Website
 
-## MBIM-Official-Website (Public Version)
+This is a **public version** of the private repository. It contains general information about the project but omits any deployment, credentials, or sensitive internal processes.
 
-The original legacy site for MICHAEL B ISBELL MEDIA, the first website that I ever deployed originally on Wordpress and now moved over to React.js. This is a public version of the private repository. Visit the live site: [MBIM-Official-Website](https://github.com/ZATHENA-VENTURES/MBIM-Official-Website)
+**Project Description:**  
+The original legacy site for MICHAEL B ISBELL MEDIA, the first website that I ever deployed originally on Wordpress and now moved over to React.js
 
-### Key Features & Services
-- [Add public-facing features here]
-
-### How to Learn More
-Visit the official website to explore this project in detail.
+Website: https://michaelbisbell.com
